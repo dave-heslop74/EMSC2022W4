@@ -1,2 +1,3 @@
 numpy==1.15.0
 matplotlib==2.2.2
+jupyter_contrib_nbextensions
