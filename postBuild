@@ -1,2 +1,2 @@
 jupyter contrib nbextension install --user
-jupyter nbextension install Freeze
+jupyter nbextension enable freeze/main
